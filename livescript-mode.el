@@ -5,7 +5,7 @@
 ;; Version: 0.4.1
 ;; Keywords: LiveScript major mode
 ;; Author: Chris Wanstrath <chris@ozmm.org>
-;; URL: http://github.com/defunkt/livescript-mode
+;; URL: http://github.com/bdowning/livescript-mode
 
 ;; This file is not part of GNU Emacs.
 
